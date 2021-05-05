@@ -7,7 +7,11 @@ Hi! I'm Caio Fleury 👋
 A Bachelor with hands-on expertise in Analytics, Software Engineering, and Project Management.    
 I'm an IT professional with proven experience in Analytics, Web Dev, Software Engineering, Project & Database Management. I have strong technical and soft skills, enabling me to work with a wide range of clients and teams. I am eager to expand my knowledge and be challenged in order to further improve. My greatest passion is using my skills to turn problems into technological solutions that benefit people and organisations.  
 
->    I'm currently working as a `Software Engineer` at [@Qoollo](https://github.com/qoollo) & [@MSDK-Research](http://msdk-research.com/)
+>    Check out my [Portfolio Website](https://caiof.github.io)
+
+>    I'm currently working as a `Software Engineer` at [@Qoollo](https://github.com/qoollo) & [@MSDK-Research](http://msdk-research.com/)    
+
+
 
 ## My Stack
 
