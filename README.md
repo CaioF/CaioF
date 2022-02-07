@@ -9,7 +9,7 @@ I'm an IT professional with proven experience in Analytics, Web Dev, Software En
 
 >    Check out my [Portfolio Website](https://caiof.github.io)
 
->    I'm currently working as a `Data Scientist & Software Engineer` at [@Qoollo](https://github.com/qoollo) & [@MSDK-Research](http://msdk-research.com/)    
+>    I'm currently working as a `Data Scientist` & `Software Engineer` at [@Qoollo](https://github.com/qoollo) & [@MSDK-Research](http://msdk-research.com/)    
 
 
 
