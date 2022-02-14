@@ -4,7 +4,7 @@
 
 
 Hi! I'm Caio Fleury 👋    
-I'm an IT professional with proven experience in Data Science, Analytics, Web Dev, Software Engineering, Project & Database Management. I have strong technical and soft skills, enabling me to work with a wide range of clients and teams. I am eager to expand my knowledge and be challenged in order to further improve. My greatest passion is using my skills to turn problems into technological solutions that benefit people and organisations.  
+I'm an IT professional with proven experience in Data Science, Analytics, Web Dev, Full Stack Software Engineering, Project & Database Management. I have strong technical and soft skills, enabling me to work with a wide range stacks, clients, and teams. I am eager to expand my knowledge and be challenged in order to further improve. My greatest passion is using my skills to turn problems into technological solutions that benefit people and organisations.  
 
 >    Check out my [Portfolio Website](https://caiof.github.io)
 
