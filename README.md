@@ -8,7 +8,7 @@ I'm an IT professional with proven experience in Software Architecture, Data Sci
 
 >    Check out my [Portfolio Website](https://caiof.github.io)
 
->    I'm currently working as a `Mid Senior Back end Software Engineer` at [@Sundevs](https://github.com/SunDevs)
+>    I'm currently working as a `Senior Software Engineer & Technical Lead` at [@Sundevs](https://github.com/SunDevs)
 
 
 ## Open-Source Portfolio
@@ -29,9 +29,14 @@ I'm an IT professional with proven experience in Software Architecture, Data Sci
 
 ## Employer Review
 > I strongly recommend Caio Fleury as an excellent software engineer with strong technical and soft skills.
->
 > During his almost two years with us at MSDK-Research he has designed and developed multiple applications working under the company’s flagship projects. He was responsible for the design and development of a management dashboard, the design and development of an application in charge of managing IoT devices, he implemented the instrumentation and automatic testing of backend servers, he successfully delivered on several data analysis tasks, and more. 
->
 > Caio distinguished himself by not only completing the tasks given to him in a timely fashion but he deliberately sought opportunities to go above our expectations. In my position as CEO I have personally witnessed and managed his work, and I can attest to the quality and to the seriousness with which he delivered on his tasks.  
 
-— [Denis Kolev](https://www.linkedin.com/in/denis-kolev-8506a173/) CEO at [MSDK Research](https://www.msdk-research.com/)
+— [Denis Kolev](https://www.linkedin.com/in/denis-kolev-8506a173/) CEO at [MSDK Research](https://www.msdk-research.com/)   
+
+
+> I had never met someone as organized and structured as Caio. His analytical skills are outstanding, he asks the right questions at the right time. 
+> I love his need to get things done right. From the first moment we met at his interview, he demonstrated extraordinary communication and teamwork skills. 
+> He's definitely in my top 5 best developers I've ever had the privilege of working with.  
+
+— [Andrés Corral](https://www.linkedin.com/in/andrescorral-/) Product Manager at [Talently](https://talently.tech/)
