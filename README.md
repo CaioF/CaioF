@@ -8,9 +8,6 @@ I'm an IT professional with proven experience in Software Architecture, Data Sci
 
 >    Check out my [Portfolio Website](https://caiof.github.io)
 
->    I'm currently working as a `Senior Software Engineer & Technical Lead` at [@Sundevs](https://github.com/SunDevs)
-
-
 ## Open-Source Portfolio
 
 | **Project** | **Tech Stack** |
